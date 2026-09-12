@@ -5,7 +5,8 @@ Relational mapping of the provided ER diagrams (Chen notation) for two case stud
 - [`OnlineRetailStore/schema.sql`](OnlineRetailStore/schema.sql) — Online Retail Store Management System
 - [`HotelReservation/schema.sql`](HotelReservation/schema.sql) — Hotel Reservation Management System
 
-[`ER-diagrams.pdf`](ER-diagrams.pdf) contains the original ER diagrams the mapping is based on.
+[`ER-diagrams.pdf`](ER-diagrams.pdf) renders the resulting relational schema (the tables and
+keys produced by the mapping below) as an ER diagram, one system per page.
 
 ## Mapping rules applied
 
